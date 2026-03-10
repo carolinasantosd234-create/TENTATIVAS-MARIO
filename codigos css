@@ -1,0 +1,53 @@
+body {
+    background-color: #000000;
+    color: #fff;
+}
+
+header ul {
+    list-style: none;
+    display: flex;
+    gap: 25px;
+}
+header a {
+    color: #fff;
+    text-decoration: none;
+}
+header a:hover {
+    text-decoration: underline;
+}
+
+
+.caixa2 {
+    display: flex;
+    gap: 15px;
+    font-size: 16px;
+}
+main p {
+    font-size: 16px;
+    line-height: 22px;
+    margin-bottom: 25px;
+}
+
+.botaoVM{
+    padding: 10px 25px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    background-color: #e63946;
+    color: #fff;
+}
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
